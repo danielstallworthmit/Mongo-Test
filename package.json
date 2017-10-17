@@ -1,0 +1,13 @@
+{
+  "name": "Mongo-Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danielstallworthmit/Mongo-Test.git",
+  "author": "danielstallworthmit <danielstallworthmit@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "mongoose": "^4.12.3",
+    "nodemon": "^1.12.1"
+  }
+}
