@@ -2,6 +2,9 @@
   "name": "Mongo-Test",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": "https://github.com/danielstallworthmit/Mongo-Test.git",
   "author": "danielstallworthmit <danielstallworthmit@gmail.com>",
   "license": "MIT",
